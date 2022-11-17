@@ -1,2 +1,7 @@
-# tech-for-women-application
-Tech For Women
+# Tech For Women Application
+
+Application for the IT – Tech for women course at Sundsgårdens Folkhögskola.
+
+## Live application
+
+[Link](https://kazmonroy.github.io/frontend-developer-application/)
